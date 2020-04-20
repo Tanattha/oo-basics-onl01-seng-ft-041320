@@ -4,8 +4,14 @@ class Shoe
     @brand = brand
   end
   
-  def propeties 
+  def brand=(brand)
+    @brand = brand
+  end
+  def brand
     @brand
+  end
+  
+  def
     @color 
     @size 
     @material 
