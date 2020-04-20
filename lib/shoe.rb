@@ -13,5 +13,5 @@ class Shoe
   end
   
   def #cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts "the shoe has been repaired"
   end
