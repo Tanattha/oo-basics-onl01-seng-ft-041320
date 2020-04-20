@@ -4,4 +4,12 @@ class Shoe
     @brand = brand
   end
   
-  def
+  def propeties 
+    @brand
+    @color 
+    @size 
+    @material 
+    @condition 
+  end
+  
+  
